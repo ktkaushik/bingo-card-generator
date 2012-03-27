@@ -1,0 +1,1 @@
+=Clone and run the bingo-card.html file to generate a bingo-card.
